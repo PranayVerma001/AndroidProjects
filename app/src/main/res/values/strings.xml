@@ -1,0 +1,38 @@
+<resources>
+
+    <string name="app_name">Convertor</string>
+    <string name="units">Select</string>
+    <string-array name="unit">
+        <item></item>
+        <item>USD to INR</item>
+        <item>USD to EURO</item>
+        <item>USD to POUND</item>
+        <item>INR to USD</item>
+        <item>INR to EURO</item>
+        <item>INR to POUND</item>
+        <item>EURO to INR</item>
+        <item>EURO to POUND</item>
+        <item>EURO to USD</item>
+        <item>POUND to INR</item>
+        <item>POUND to USD</item>
+        <item>POUND to EURO</item>
+    </string-array>
+
+
+    <string name="measure">Select</string>
+    <string-array name="measure">
+        <item></item>
+        <item>KiloMetre to Mile</item>
+        <item>KiloMetre to Metre</item>
+        <item>KiloMetre to Foot</item>
+        <item>Metre to Mile</item>
+        <item>Metre to Foot</item>
+        <item>Metre to KiloMetre</item>
+        <item>Foot to Metre</item>
+        <item>Foot to KiloMetre</item>
+        <item>Foot to Mile</item>
+        <item>Mile to KiloMetre</item>
+        <item>Mile to Metre</item>
+        <item>Mile to Foot</item>
+    </string-array>
+</resources>
